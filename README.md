@@ -1,5 +1,7 @@
 # Screen Scanner OCR.
 
+- MacOS 13.0 Required
+
 - You can use shift+command+1 to capture your screen, and the result will in your clip board, you can simply use it.
 
 - Remember to do following two things in mac before use it:
